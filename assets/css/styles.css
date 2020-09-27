@@ -1,2 +1,15 @@
 
 /* css */
+p{
+  color:red;
+}
+
+.myClass {
+  color: blue;
+  background: purple;
+  text-decoration: underline;
+}
+
+#thisIsMyUniqueIdTag {
+  color: magenta;
+}
