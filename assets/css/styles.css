@@ -2,3 +2,25 @@
 /* css */
 body {font-family: sans-serif;}
 .container {background-color: #d1d2d4;}
+
+h1{
+  font-size: 80px;
+}
+
+p{
+  font-size: 20px;
+}
+
+.largebox1{
+  width: 300px;
+  height: 300px;
+  fill: rgb(194, 0, 115);
+}
+
+.largebox2{
+
+}
+
+.smallbox{
+
+}
