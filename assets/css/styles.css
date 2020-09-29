@@ -14,7 +14,7 @@ p{
 .largebox1{
   fill: rgb(194, 0, 115);
   position: relative;
-  left: 25%;
+  left: 500px;
   z-index: 100;
 
 }
