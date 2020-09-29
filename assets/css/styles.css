@@ -12,11 +12,9 @@ p{
 }
 
 .largebox1{
-  fill: rgb(194, 0, 115);
-  position: relative;
-  left: 500px;
+  position: absolute;
+  left: 10px;
   z-index: 100;
-
 }
 
 .largebox2{
