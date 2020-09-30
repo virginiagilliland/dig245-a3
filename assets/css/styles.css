@@ -11,6 +11,11 @@ h1{
   margin-left: 0.1em;
 }
 
+a{
+  font-size: 30px;
+  color: black;
+}
+
 p{
   font-size: 22px;
   font-weight: bold;
